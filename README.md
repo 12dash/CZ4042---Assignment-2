@@ -19,6 +19,10 @@ For respective dataset, the file name is prefixed with the dataset name. For exa
 
 The pre-trained models were trained on COLAB. 
 
+## Models
+
+The trained models are stored in the directory Jupyter/model
+
 ## Video
 
 To view the video presentation, click on the link below. 
